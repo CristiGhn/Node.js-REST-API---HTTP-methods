@@ -1,5 +1,3 @@
-import { read } from "fs";
-
 console.log("Hello from express");
 
 // PART 1
